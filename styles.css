@@ -1,0 +1,63 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+}
+
+h2 {
+  color: red;
+  text-align: left;
+  font-style: bold;
+}
+
+h3 {
+  color: yellow;
+  font-size: 30px;
+  text-align: right;
+}
+h4 {
+  color: purple;
+  font-size: 30px;
+  text-decoration: overline;
+}
+
+h5 {
+color: black;
+  font-size: 30px;
+  text-decoration: line-through;
+}
+
+h6 {
+  color: green;
+  font-size: 30px;
+  text-decoration: underline;
+}
+e.spacingtri {
+  color: cyan;
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+
+e.spacingminus {
+  
+  font-size: 30px;
+  letter-spacing: -3px;
+}
+p.uppercase {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  font-size: 30px;
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  font-size: 30px;
+  text-transform: capitalize;
+}
+e.shadow {
+  font-size: 30px;
+  text-shadow: 3px 2px red;
+}
